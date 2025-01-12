@@ -46,6 +46,7 @@ Disclaimer:
 I used AI to create the test cases that are in the json_generator.rb file.
 
 What I learned:
+- Further knowleadge on how blocks work in Ruby, how to call them and to interact with them.
 - What is a DSL (Domain Specific Language) and how to use it in ruby.
   Sources:
   - https://www.leighhalliday.com/creating-ruby-dsl
